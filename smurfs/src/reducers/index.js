@@ -1,6 +1,11 @@
 /*
   Be sure to import in all of the action types from `../actions`
 */
+import {
+FETCH_SMURFS,
+FETCH_SMURFS_SUCCESS,
+FETCH_SMURFS_FAIL
+} from '../actions'
 
 /*
  Your initial/default state for this project could *Although does not have to* look a lot like this
